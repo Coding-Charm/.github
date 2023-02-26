@@ -17,10 +17,17 @@
 
 <h3>Steps to make your first Open Sorce Contribution.</h3>
 1. Use vs code and install git and GitHub extensions.
+
 2. Fork the project in which you want to contribute.
+
 3. Clone that project which is in your profile after forking into vscode.
+
 4. Make changes (contribution to enhace the project). What ever feature you want to add, add them. 
+
 5. Push those changes to GitHub.
+
 6. Make a new pull request on the profile of that second person by going into the section of pull request.
+
 7. Add what you have changed (by making comments).
+
 8. <strong>Voila !</strong> Your work is over. Now wait to get it merged by that person.

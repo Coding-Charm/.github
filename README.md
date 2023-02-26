@@ -1,5 +1,5 @@
 <h1>Hey contributor, Welcome to Coding Charm.</h1>
-<h2>At this organizations we manage to provide useful stuff and engage newbie developers from colleges & high schools as well.</h2>
+<h2>At this organization we manage to provide usefull stuff and engage newbie developers from colleges & high schools as well.</h2>
 
 <h2>Wanna make your first contribution ?</h2>
 <img src='opensource.jpg'></img>

@@ -15,6 +15,8 @@
 5. Answering questions about a project (like on Stack Overflow or Reddit).
 6. You can fix typos and arrange the project's work folder correctly.
 
+<img>steps.jpg</img>
+
 <h3>Steps to make your first Open Sorce Contribution.</h3>
 1. Use vs code and install git and GitHub extensions.
 
@@ -39,4 +41,5 @@ You can also add some more specifications in readme.md file or make changes into
 
 If the contribution is worthy and accurate, you can be added as a conrtibutor into the organization as well. 
 
+<img>justastart</img>
 

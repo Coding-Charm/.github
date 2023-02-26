@@ -37,4 +37,6 @@ Also, If you want to make your first open source contribution you can contribute
 You can either add any of your projects (it can be as simple as a newbie one made with html or an advanced project as well).
 You can also add some more specifications in readme.md file or make changes into it.
 
-If the contribution is worthy and accurate, you can be added as a coonrtibutor into the organization as well. 
+If the contribution is worthy and accurate, you can be added as a conrtibutor into the organization as well. 
+
+

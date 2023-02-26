@@ -1,4 +1,4 @@
-<h1>Hey contributer, Welcome to Coding Charm.</h1>
+<h1>Hey contributor, Welcome to Coding Charm.</h1>
 <h2>At this organizations we manage to provide useful stuff and engage newbie developers from colleges & high schools as well.</h2>
 
 <h2>Wanna make your first contribution ?</h2>
@@ -31,3 +31,10 @@
 7. Add what you have changed (by making comments).
 
 8. <strong>Voila !</strong> Your work is over. Now wait to get it merged by that person.
+
+
+Also, If you want to make your first open source contribution you can contribute in this organization as well.
+You can either add any of your projects (it can be as simple as a newbie one made with html or an advanced project as well).
+You can also add some more specifications in readme.md file or make changes into it.
+
+If the contribution is worthy and accurate, you can be added as a coonrtibutor into the organization as well. 

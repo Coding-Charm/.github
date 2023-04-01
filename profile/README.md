@@ -41,5 +41,13 @@ You can also add some more specifications in readme.md file or make changes into
 
 If the contribution is worthy and accurate, you can be added as a conrtibutor into the organization as well. 
 
-<img src='justastart.jpg'></img>
+Hey all you code wizards out there! Are you looking to level up your skills and make a difference in the world? Look no further than open source development!
+
+Not only will you get to work on projects that interest you, but you'll also have the chance to collaborate with a community of developers from all around the globe. It's like having a virtual coding party, but without the annoying guy who always hogs the snacks.
+
+And if you're worried about being a newbie, don't be! The open source community is welcoming to developers of all levels. We won't judge you if you accidentally use tabs instead of spaces (well, maybe a little, but we'll help you fix it).
+
+So what are you waiting for? Join the open source revolution and let's make some amazing things together!
+
+
 
